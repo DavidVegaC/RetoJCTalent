@@ -1,0 +1,24 @@
+A                                    
+A       *** COPIA DEL COMERCIO ***       
+A                                        
+A     SUPERMERCADO LA GALLINITA FELIZ    
+B   A000000000007    
+A                                       
+AFecha: 02/12/19          Hora: 13:28:51
+A                                       
+ATerminal:                          0029
+ALote:                              0001
+A                                       
+AReferencia:                      000351
+AAutorización:                      1111
+A                                       
+ATipo de Transacción:             Retiro
+AMonto de Transacción:           ¢ 25.80
+ATipo de Cambio:                    2.50
+A                                       
+A                                       
+A                                       
+A---------------------------------------
+A         Firma del Cliente             
+A                                       
+                                        
