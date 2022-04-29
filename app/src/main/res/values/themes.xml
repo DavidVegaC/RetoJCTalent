@@ -3,12 +3,12 @@
     <style name="Theme.RetoJCTalent" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
         <!-- Primary brand color. -->
         <!-- Primary brand color. -->
-        <item name="colorPrimary">#084C5F</item>
-        <item name="colorPrimaryVariant">#084C5F</item>
-        <item name="colorOnPrimary">#084C5F</item>
+        <item name="colorPrimary">#08095F</item>
+        <item name="colorPrimaryVariant">#08095F</item>
+        <item name="colorOnPrimary">#08095F</item>
 
-        <item name="colorPrimaryDark">#084C5F</item>
-        <item name="colorAccent">#084C5F</item>
+        <item name="colorPrimaryDark">#08095F</item>
+        <item name="colorAccent">#08095F</item>
 
         <!-- Secondary brand color. -->
         <item name="colorSecondary">@color/teal_200</item>
